@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello world,
+
+Killa K here. Stay awesome and eat your veggies!
