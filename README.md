@@ -2,4 +2,4 @@
 
 Hello world,
 
-Killa K here. Stay awesome and eat your veggies!
+Stay awesome and eat your veggies!
